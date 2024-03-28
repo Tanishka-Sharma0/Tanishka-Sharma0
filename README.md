@@ -1,6 +1,5 @@
-### Hi there 👋
-
 # *Tanishka's Skills*
+##Introduction
 
 ## My Skills
 
@@ -55,61 +54,4 @@
 
 ### Web Development
 ![Web Development](https://media.giphy.com/media/l1KVcAP6jvXyLJ72Q/giphy.gif)
-<!-- Adding background color -->
-<style>
-  body {
-    background-color: #f0f0f0;
-    font-family: Arial, sans-serif;
-  }
-  h1 {
-    font-style: italic;
-    color: #333;
-  }
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-  .skill-item {
-    margin: 20px;
-  }
-</style>
-
-# *Tanishka's Skills*
-
-## My Skills
-
-<div class="skills-container">
-  <!-- Blockchain Development -->
-  <div class="skill-item">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="80" height="80">
-  </div>
-  <div class="skill-item">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="80" height="80">
-  </div>
-  <!-- Add other skills with similar format -->
-</div>
-
-## Skills Highlight
-
-### Blockchain Development
-![Blockchain Development](https://media.giphy.com/media/J1o21rZpfk6xK5m6NR/giphy.gif)
-
-### Front End Development
-![Front End Development](https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif)
-
-### React Native Development
-![React Native Development](https://media.giphy.com/media/yx6hYQ42F9JnD6SasR/giphy.gif)
-
-### Full Stack Development
-![Full Stack Development](https://media.giphy.com/media/f9yhWRP5VuKpBzQa20/giphy.gif)
-
-### MERN Stack Development
-![MERN Stack Development](https://media.giphy.com/media/iDA8fJdCC8zxeiMBJj/giphy.gif)
-
-### Web Development
-![Web Development](https://media.giphy.com/media/l1KVcAP6jvXyLJ72Q/giphy.gif)
-
-
-
 
