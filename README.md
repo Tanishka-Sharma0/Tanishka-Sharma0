@@ -65,34 +65,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Tanishka-Sharma0/Tanishka-Sharma0/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Tanishka&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Tanishka-Sharma0/Tanishka-Sharma0/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Tanishka&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
 
