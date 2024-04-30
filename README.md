@@ -1,4 +1,4 @@
-![image](https://github.com/Tanishka-Sharma0/Tanishka-Sharma0/assets/159780524/24680507-46aa-4019-8414-9c9cc124bca4)<h1 align="center">Hi 👋, I'm Tanishka Sharma</h1>
+<h1 align="center">Hi 👋, I'm Tanishka Sharma</h1>
 <h3 align="center">A passionate FullStack Blockchain Developer from India</h3>
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="Your GIF" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishka-sharma0&label=Profile%20views&color=0e75b6&style=flat" alt="tanishka-sharma0" /> </p>
