@@ -1,7 +1,7 @@
 <!-- Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:7F00FF,100:E100FF&amp;text=Tanishka%20Sharma&amp;fontSize=45&amp;fontAlignY=40&amp;animation=fadeIn&amp;desc=FullStack%20%26%20Blockchain%20Developer&amp;descAlignY=60&amp;descAlign=50&amp;fontColor=ffffff" alt="header"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=9F00FF&center=true&vCenter=true&width=750&lines=Tanishka+Sharma;Full+Stack+%26+Blockchain+Developer;MERN+%7C+Web3+%7C+Smart+Contracts" />
+</h1>
 
 <!-- Intro -->
 <h2 align="center">✨ Hey there, I'm <span style="color:#E100FF;">Tanishka</span> 👋</h2>
