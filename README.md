@@ -56,25 +56,6 @@
 <br/>
 
 <!-- ========================================================= -->
-<!--            📊 GITHUB STATS (WORKING)                     -->
-<!-- ========================================================= -->
-
-<div align="center">
-  
-  ### 📊 GitHub Analytics
-  
-  <br/>
-  
-  <a href="https://github.com/Tanishka-Sharma0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanishka-Sharma0&show_icons=true&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=EC4899&hide_border=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Tanishka-Sharma0&theme=dark&background=0D1117&stroke=7C3AED&fire=EC4899&ring=7C3AED&hide_border=true"/>
-  </a>
-  
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
 <!--          📈 MOST USED LANGUAGES (STATIC)                  -->
 <!-- ========================================================= -->
 
