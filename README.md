@@ -95,12 +95,6 @@
     </tr>
   </table>
   
-  <br/>
-  
-  <a href="https://github.com/Tanishka-Sharma0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishka-Sharma0&layout=compact&theme=radical&bg_color=0D1117&title_color=7C3AED&hide_border=true"/>
-  </a>
-  
 </div>
 
 <br/>
