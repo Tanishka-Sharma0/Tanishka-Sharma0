@@ -1,633 +1,343 @@
 <!-- ========================================================= -->
-<!--                 ✨ HERO SECTION                            -->
+<!--                 🎨 HERO SECTION                            -->
 <!-- ========================================================= -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:312E81,55:6D28D9,100:C026D3&text=Tanishka%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Blockchain%20Developer&descAlignY=58"/>
-
-</div>
-
-<div align="center">
-
-# 👋 Hello, I'm Tanishka Sharma
-
-### Building AI Applications • Scalable SaaS • MERN Products • Web3 Solutions
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+PostgreSQL;Blockchain+Developer;LLM+Applications;RAG+Powered+Systems;Building+Modern+Digital+Products"/>
-
-</div>
-
----
-
-# 🚀 About Me
-
-I'm a **Full Stack Engineer** passionate about building intelligent software powered by **Artificial Intelligence**, **Modern Web Technologies**, and **Blockchain**.
-
-I enjoy transforming ideas into production-ready applications—from beautiful frontend interfaces to scalable backend architectures and AI-powered experiences.
-
-Currently I focus on:
-
-- 🤖 AI-powered SaaS Applications
-- ⚡ MERN Stack Development
-- 💎 Next.js Production Apps
-- 🧠 LLM Integrations
-- 🔍 RAG Based AI Systems
-- ⛓ Blockchain & Smart Contracts
-- ☁ Cloud Deployment
-- 🎨 High Performance UI Engineering
-
----
-
-# 🌌 Engineering Philosophy
-
-> **"Good software solves problems. Great software feels invisible."**
-
-I enjoy building products that are:
-
-- Fast
-- Scalable
-- Secure
-- Beautiful
-- Maintainable
-- Developer Friendly
-
----
-
-# 💫 Current Focus
-
-```txt
-🧠 Building AI Products
-
-⚡ Full Stack SaaS
-
-🔍 Retrieval-Augmented Generation (RAG)
-
-💬 AI Chatbots
-
-🌐 Modern React Ecosystem
-
-🚀 Next.js Applications
-
-☁ Cloud Deployments
-
-⛓ Blockchain DApps
-```
-
----
-
-# 📬 Connect With Me
-
-<p align="center">
-
-<a href="mailto:sharmatanishka80@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tanishka-sharma-932958357/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Tanishka-Sharma0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://creative-llama-0eff73.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Quick Facts
-
-```yaml
-Name: Tanishka Sharma
-
-Role: AI Engineer & Full Stack Developer
-
-Location: India 🇮🇳
-
-Experience: 1.5+ Years
-
-Education:
-  - Bachelor of Computer Applications
-  - Master of Computer Applications
-
-Current Tech Focus:
-  - AI Applications
-  - MERN Stack
-  - Next.js
-  - Blockchain
-  - Cloud
-
-Open To:
-  - Full Time Opportunities
-  - Remote Roles
-  - AI Engineering
-  - Full Stack Development
-```
-
----
-
-<div align="center">
-
-### 💜 Turning Ideas into Intelligent Products
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Tanishka-Sharma0&style=for-the-badge&color=blueviolet)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,30:7C3AED,70:EC4899,100:0F172A&text=Tanishka%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20•%20Full%20Stack%20Dev%20•%20Blockchain%20Developer&descAlignY=60" width="100%"/>
 </div>
 
 <!-- ========================================================= -->
-<!--                END OF PART 1                              -->
+<!--              🌈 ANIMATED TYPING EFFECT                    -->
 <!-- ========================================================= -->
 
-<!-- ========================================================= -->
-<!--                  🧠 TECH UNIVERSE                         -->
-<!-- ========================================================= -->
-
-# 🧠 AI Engineering
-
 <div align="center">
-
-| AI | LLM | Prompting | Integration |
-|:--:|:--:|:--:|:--:|
-| 🤖 OpenAI API | 💎 Gemini API | ✨ Prompt Engineering | 🔗 REST APIs |
-| 🧠 RAG Concepts | 💬 AI Chatbots | 📄 Context Memory | ⚡ AI Workflows |
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=AI+Engineer;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+PostgreSQL;Blockchain+Developer;LLM+%26+RAG+Systems;Building+Intelligent+Products" alt="Typing Animation"/>
 </div>
-
-> Building intelligent web applications powered by modern LLMs, AI APIs, contextual conversations and production-ready backend architectures.
-
----
-
-# 💻 Frontend Engineering
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,vite"/>
-
-</p>
-
-### Core Expertise
-
-- ⚛ React.js
-- ▲ Next.js
-- 📘 TypeScript
-- JavaScript (ES6+)
-- Redux Toolkit
-- Context API
-- TanStack Query
-- React Router
-- Tailwind CSS
-- Material UI
-- shadcn/ui
-- Responsive UI
-- Component Architecture
-- API Integration
-- Authentication
-- Performance Optimization
-
----
-
-# 🎨 UI / UX Engineering
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-</p>
-
-✨ Additional Libraries
-
-- Framer Motion
-- Three.js
-- Chart.js
-- D3.js
-- ECharts
-
-Focused on creating modern, accessible and high-performance user experiences.
-
----
-
-# ⚙ Backend Engineering
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
-### Experience With
-
-- REST APIs
-- JWT Authentication
-- Google OAuth
-- API Architecture
-- Backend Validation
-- Secure Routing
-- File Upload Systems
-- Cloudinary Integration
-- Multer
-- Production APIs
-
----
-
-# 🗄 Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase"/>
-
-</p>
-
-Working with relational and NoSQL databases while designing scalable backend architectures.
-
----
-
-# ⛓ Blockchain Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=solidity"/>
-
-</p>
-
-### Web3 Stack
-
-- Solidity
-- Smart Contracts
-- Web3.js
-- Wallet Integration
-- Ethereum
-- IPFS
-- DApps
-
-Passionate about decentralized applications and blockchain-based solutions.
-
----
-
-# ☁ Cloud & Deployment
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,vercel,netlify"/>
-
-</p>
-
-Deployment Platforms
-
-- Vercel
-- Render
-- Netlify
-
-Cloud
-
-- AWS
-- Google Cloud
-- Azure (Basic)
-
-Other
-
-- Environment Management
-- CI/CD Concepts
-- Git Workflows
-
----
-
-# 🧪 Testing & Quality
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=jest"/>
-
-</p>
-
-Testing Tools
-
-- Jest
-- React Testing Library
-- Cypress
-
-Always aiming for reliable, maintainable and production-ready applications.
-
----
-
-# 🛠 Developer Toolkit
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-</p>
-
-Daily Development Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Chrome DevTools
-- ClickUp
-- Microsoft Teams
-
----
-
-# 🤖 AI Coding Ecosystem
-
-<div align="center">
-
-| Assistant | Productivity |
-|:--|:--|
-| ChatGPT | Daily Development |
-| Claude | Architecture & Reasoning |
-| GitHub Copilot | Code Completion |
-| Cursor | AI IDE |
-| Gemini | AI Development |
-| Perplexity | Technical Research |
-
-</div>
-
-Using AI responsibly to improve productivity, accelerate development, explore solutions, and maintain high code quality.
-
----
-
-# 🌱 Currently Learning
-
-```text
-• Advanced AI Workflows
-• Production-Ready RAG Systems
-• Scalable SaaS Architecture
-• Advanced Next.js
-• PostgreSQL Optimization
-• Cloud Infrastructure
-• System Design
-```
 
 <!-- ========================================================= -->
-<!--                 END OF PART 2                             -->
+<!--              🎯 CONNECT WITH ME                           -->
 <!-- ========================================================= -->
 
+<p align="center">
+  <a href="mailto:sharmatanishka80@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tanishka-sharma-932958357/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/>
+  </a>
+  <a href="https://github.com/Tanishka-Sharma0">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/>
+  </a>
+  <a href="https://creative-llama-0eff73.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black"/>
+  </a>
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black"/>
+  </a>
+</p>
+
 <!-- ========================================================= -->
-<!--                 🚀 FEATURED PROJECTS                      -->
+<!--            📊 GITHUB STATS (FIXED)                       -->
 <!-- ========================================================= -->
 
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 AI Flow Builder
-
-Modern AI workflow platform built with the MERN stack.
-
-**Highlights**
-
-- AI Workflow Builder
-- Authentication
-- Dynamic Node System
-- OpenRouter Integration
-- REST APIs
-- Responsive UI
-
-**Stack**
-
-React • Node.js • Express • MongoDB • TailwindCSS
-
-🔗 Live Demo
-
-https://ai-flow-builder-sr7i.onrender.com
-
-🔗 Repository
-
-https://github.com/Tanishka-Sharma0/AI_FLOW_BUILDER
-
-</td>
-
-<td width="50%">
-
-### 🛍 NextShop
-
-Production-ready Ecommerce Platform
-
-Features
-
-- Authentication
-- Shopping Cart
-- Redux Toolkit
-- Secure APIs
-- JWT
-- Responsive Design
-
-Stack
-
-Next.js
-TypeScript
-Node.js
-MongoDB
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 💬 AI Portfolio Chatbot
-
-An intelligent chatbot capable of answering portfolio-related questions using contextual AI.
-
-Highlights
-
-- AI Chat Interface
-- Session Memory
-- Markdown Rendering
-- Gemini API
-- Backend Logging
-
-</td>
-
-<td>
-
-### 🎬 CineMetrics Dashboard
-
-Movie Analytics Dashboard
-
-Features
-
-- Dynamic Charts
-- Search
-- Dashboard
-- API Integration
-- Responsive UI
-
-Tech
-
-React
-
-TypeScript
-
-Recharts
-
-TailwindCSS
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📈 GitHub Analytics
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanishka-Sharma0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Tanishka-Sharma0&theme=tokyonight&hide_border=true"/>
-
+  
+  ### 📊 GitHub Analytics
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Tanishka-Sharma0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=EC4899" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanishka-Sharma0&theme=dark&hide_border=true&background=0D1117&stroke=7C3AED&fire=EC4899&ring=7C3AED" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-# 📊 Most Used Languages
+<!-- ========================================================= -->
+<!--          📈 MOST USED LANGUAGES (FIXED)                   -->
+<!-- ========================================================= -->
 
 <div align="center">
-
-<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishka-Sharma0&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  
+  ### 📈 Most Used Languages
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishka-Sharma0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="Top Languages" width="45%"/>
+  
 </div>
 
----
-
-# 📈 Contribution Graph
+<!-- ========================================================= -->
+<!--          🏆 GITHUB TROPHIES (FIXED)                       -->
+<!-- ========================================================= -->
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishka-Sharma0&theme=tokyo-night&hide_border=true"/>
-
+  
+  ### 🏆 GitHub Achievements
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanishka-Sharma0&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies"/>
+  
 </div>
 
----
-
-# 🏆 GitHub Achievements
+<!-- ========================================================= -->
+<!--          🐍 CONTRIBUTION SNAKE (FIXED)                    -->
+<!-- ========================================================= -->
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tanishka-Sharma0&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
+  
+  ### 🐍 Contribution Snake
+  
+  <img src="https://raw.githubusercontent.com/Tanishka-Sharma0/Tanishka-Sharma0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  
+  > ⚡ *Enable GitHub Actions to generate this snake animation*
+  
 </div>
 
----
-
-# 🐍 Contribution Snake
+<!-- ========================================================= -->
+<!--          📌 FEATURED REPOSITORIES (FIXED)                 -->
+<!-- ========================================================= -->
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Tanishka-Sharma0/Tanishka-Sharma0/output/github-contribution-grid-snake-dark.svg"/>
-
+  
+  ### 📌 Featured Repositories
+  
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Tanishka-Sharma0/AI_FLOW_BUILDER">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishka-Sharma0&repo=AI_FLOW_BUILDER&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="AI Flow Builder"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Tanishka-Sharma0/NextShop">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishka-Sharma0&repo=NextShop&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="NextShop"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Tanishka-Sharma0/AI-Portfolio-Chatbot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishka-Sharma0&repo=AI-Portfolio-Chatbot&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="AI Chatbot"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Tanishka-Sharma0/CineMetrics">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishka-Sharma0&repo=CineMetrics&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="CineMetrics"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
-> ⚠️ **Note:** Snake animation tabhi chalegi jab tum GitHub Actions se `github-contribution-grid-snake` workflow configure karogi.
-
----
-
-# 📌 Featured Repositories
+<!-- ========================================================= -->
+<!--              🚀 SKILLS SECTION                           -->
+<!-- ========================================================= -->
 
 <div align="center">
-
-<a href="https://github.com/Tanishka-Sharma0/AI_FLOW_BUILDER">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishka-Sharma0&repo=AI_FLOW_BUILDER&theme=tokyonight&hide_border=true"/>
-
-</a>
-
+  
+  ### 💻 Tech Stack
+  
+  <table>
+    <tr>
+      <td><h3>🎨 Frontend</h3></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,vite" />
+      </td>
+    </tr>
+    <tr>
+      <td><h3>⚙️ Backend</h3></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,apollo" />
+      </td>
+    </tr>
+    <tr>
+      <td><h3>🗄️ Database</h3></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
+      </td>
+    </tr>
+    <tr>
+      <td><h3>🤖 AI & ML</h3></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi" />
+      </td>
+    </tr>
+    <tr>
+      <td><h3>⛓️ Blockchain</h3></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=solidity,rust" />
+      </td>
+    </tr>
+    <tr>
+      <td><h3>☁️ Cloud</h3></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" />
+      </td>
+    </tr>
+    <tr>
+      <td><h3>🧪 Testing</h3></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=jest,cypress" />
+      </td>
+    </tr>
+    <tr>
+      <td><h3>🛠️ Tools</h3></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
----
-
-# 💼 Open For Opportunities
-
-```text
-✅ Full Stack Development
-
-✅ Frontend Engineering
-
-✅ React.js
-
-✅ Next.js
-
-✅ TypeScript
-
-✅ AI Applications
-
-✅ SaaS Products
-
-✅ Blockchain Development
-
-✅ Remote Opportunities
-
-✅ Product Engineering
-```
-
----
-
-# 🌍 Let's Connect
+<!-- ========================================================= -->
+<!--              🌟 FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
 
 <div align="center">
-
-<a href="mailto:sharmatanishka80@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-
-</a>
-
-<a href="https://www.linkedin.com/in/tanishka-sharma-932958357">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-
-</a>
-
-<a href="https://creative-llama-0eff73.netlify.app/">
-
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white">
-
-</a>
-
-<a href="https://github.com/Tanishka-Sharma0">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
+  
+  ### 🚀 Featured Projects
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🤖 AI Flow Builder</h3>
+        <p>MERN stack AI workflow platform</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+        </p>
+        <a href="https://ai-flow-builder-sr7i.onrender.com">
+          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+        <a href="https://github.com/Tanishka-Sharma0/AI_FLOW_BUILDER">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+      <td width="50%">
+        <h3>🛍️ NextShop</h3>
+        <p>Production-ready ecommerce platform</p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        </p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+        <a href="https://github.com/Tanishka-Sharma0/NextShop">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>💬 AI Portfolio Chatbot</h3>
+        <p>Intelligent portfolio assistant with Gemini API</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
+        </p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+        <a href="https://github.com/Tanishka-Sharma0/AI-Portfolio-Chatbot">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+      <td width="50%">
+        <h3>🎬 CineMetrics</h3>
+        <p>Movie analytics dashboard</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+        </p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+        <a href="https://github.com/Tanishka-Sharma0/CineMetrics">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
----
+<!-- ========================================================= -->
+<!--            📈 ACTIVITY GRAPH                             -->
+<!-- ========================================================= -->
 
 <div align="center">
+  
+  ### 📈 Contribution Graph
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishka-Sharma0&theme=react-dark&bg_color=0D1117&hide_border=true&color=7C3AED&line=EC4899" alt="Activity Graph"/>
+  
+</div>
 
-## ⭐ Thanks for visiting my profile!
+<!-- ========================================================= -->
+<!--            🎯 CURRENT FOCUS                              -->
+<!-- ========================================================= -->
 
-### _Building intelligent software with AI, Full Stack Engineering, and Blockchain._
+<div align="center">
+  
+  ### 🎯 Current Focus
+  
+  <table>
+    <tr>
+      <td>🤖 AI Products</td>
+      <td>⚡ Full Stack SaaS</td>
+      <td>🔍 RAG Systems</td>
+    </tr>
+    <tr>
+      <td>💬 AI Chatbots</td>
+      <td>🌐 React Ecosystem</td>
+      <td>🚀 Next.js Apps</td>
+    </tr>
+    <tr>
+      <td>☁️ Cloud Deployments</td>
+      <td>⛓️ Blockchain DApps</td>
+      <td>🧠 LLM Integration</td>
+    </tr>
+  </table>
+  
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:C026D3,100:312E81&section=footer"/>
+<!-- ========================================================= -->
+<!--            💫 QUOTE SECTION                              -->
+<!-- ========================================================= -->
 
+<div align="center">
+  
+  ### 💫 Inspirational Quote
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+  
+</div>
+
+<!-- ========================================================= -->
+<!--            🏷️ VISITOR COUNT                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+  
+  ### 👀 Profile Views
+  
+  <img src="https://komarev.com/ghpvc/?username=Tanishka-Sharma0&style=for-the-badge&color=7C3AED&label=VISITORS" alt="Visitor Count"/>
+  
+</div>
+
+<!-- ========================================================= -->
+<!--              🌊 FOOTER WAVE                              -->
+<!-- ========================================================= -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:EC4899,50:7C3AED,100:0F172A&section=footer" width="100%"/>
 </div>
 
 <!-- ========================================================= -->
