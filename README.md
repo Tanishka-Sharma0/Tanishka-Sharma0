@@ -6,6 +6,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,30:7C3AED,70:EC4899,100:0F172A&text=Tanishka%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20•%20Full%20Stack%20Dev%20•%20Blockchain%20Developer&descAlignY=60" width="100%"/>
 </div>
 
+<br/>
+
 <!-- ========================================================= -->
 <!--              🌈 ANIMATED TYPING EFFECT                    -->
 <!-- ========================================================= -->
@@ -13,6 +15,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=AI+Engineer;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+PostgreSQL;Blockchain+Developer;LLM+%26+RAG+Systems;Building+Intelligent+Products" alt="Typing Animation"/>
 </div>
+
+<br/>
 
 <!-- ========================================================= -->
 <!--              🎯 CONNECT WITH ME                           -->
@@ -33,19 +37,42 @@
   </a>
 </p>
 
+<br/>
+
 <!-- ========================================================= -->
-<!--            📊 GITHUB STATS                               -->
+<!--              👋 ABOUT ME                                 -->
+<!-- ========================================================= -->
+
+<div align="center">
+  
+  ### 👋 About Me
+  
+  I'm a **Full Stack Engineer** passionate about building intelligent software powered by **Artificial Intelligence**, **Modern Web Technologies**, and **Blockchain**.
+  
+  I enjoy transforming ideas into production-ready applications—from beautiful frontend interfaces to scalable backend architectures and AI-powered experiences.
+  
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--            📊 GITHUB STATS (WORKING)                     -->
 <!-- ========================================================= -->
 
 <div align="center">
   
   ### 📊 GitHub Analytics
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishka-Sharma0&show_icons=true&count_private=true&hide=issues&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=EC4899&border_color=7C3AED" alt="GitHub Stats" width="48%"/>
+  <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanishka-Sharma0&theme=dark&background=0D1117&stroke=7C3AED&fire=EC4899&ring=7C3AED&currStreakLabel=7C3AED&border=7C3AED" alt="GitHub Streak" width="48%"/>
+  <a href="https://github.com/Tanishka-Sharma0">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanishka-Sharma0&show_icons=true&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=EC4899&hide_border=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Tanishka-Sharma0&theme=dark&background=0D1117&stroke=7C3AED&fire=EC4899&ring=7C3AED&hide_border=true"/>
+  </a>
   
 </div>
+
+<br/>
 
 <!-- ========================================================= -->
 <!--          📈 MOST USED LANGUAGES (STATIC)                  -->
@@ -54,6 +81,8 @@
 <div align="center">
   
   ### 📈 Tech Stack Distribution
+  
+  <br/>
   
   <table>
     <tr>
@@ -87,42 +116,60 @@
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishka-Sharma0&layout=compact&theme=radical&bg_color=0D1117&title_color=7C3AED&border_color=7C3AED" alt="Top Languages" width="45%"/>
+  <a href="https://github.com/Tanishka-Sharma0">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishka-Sharma0&layout=compact&theme=radical&bg_color=0D1117&title_color=7C3AED&hide_border=true"/>
+  </a>
   
 </div>
 
+<br/>
+
 <!-- ========================================================= -->
-<!--          🏆 GITHUB TROPHIES                              -->
+<!--          🏆 GITHUB ACHIEVEMENTS (WORKING)                -->
 <!-- ========================================================= -->
 
 <div align="center">
   
   ### 🏆 GitHub Achievements
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanishka-Sharma0&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <br/>
+  
+  <a href="https://github.com/Tanishka-Sharma0">
+    <img src="https://github-profile-trophy.vercel.app/?username=Tanishka-Sharma0&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
   
 </div>
 
+<br/>
+
 <!-- ========================================================= -->
-<!--          📈 GITHUB ANALYTICS (ADDED)                     -->
+<!--          📈 GITHUB ANALYTICS DASHBOARD                   -->
 <!-- ========================================================= -->
 
 <div align="center">
   
   ### 📈 GitHub Analytics Dashboard
   
+  <br/>
+  
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanishka-Sharma0&theme=radical&bg_color=0D1117&title_color=7C3AED&border_color=7C3AED" alt="WakaTime Stats"/>
+        <a href="https://github.com/Tanishka-Sharma0">
+          <img src="https://github-readme-stats.vercel.app/api?username=Tanishka-Sharma0&show_icons=true&count_private=true&hide=prs,issues&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=EC4899&hide_border=true" alt="GitHub Stats"/>
+        </a>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Tanishka-Sharma0&show_icons=true&count_private=true&hide=prs&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=EC4899&border_color=7C3AED" alt="GitHub Stats"/>
+        <a href="https://github.com/Tanishka-Sharma0">
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tanishka-Sharma0&theme=radical&bg_color=0D1117&title_color=7C3AED&hide_border=true" alt="WakaTime Stats"/>
+        </a>
       </td>
     </tr>
   </table>
   
 </div>
+
+<br/>
 
 <!-- ========================================================= -->
 <!--          🐍 CONTRIBUTION SNAKE                           -->
@@ -132,13 +179,21 @@
   
   ### 🐍 Contribution Snake
   
-  <img src="https://github.com/Tanishka-Sharma0/Tanishka-Sharma0/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <br/>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishka-Sharma0/Tanishka-Sharma0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanishka-Sharma0/Tanishka-Sharma0/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tanishka-Sharma0/Tanishka-Sharma0/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+  
+  <br/><br/>
   
   <details>
-    <summary>⚡ Click to see snake setup instructions</summary>
+    <summary>⚡ Setup Instructions</summary>
     <br/>
-    Create `.github/workflows/snake.yml`:
-    <br/>
+    Create <code>.github/workflows/snake.yml</code>
+    <br/><br/>
     <pre>
 name: Generate Snake
 on:
@@ -154,46 +209,50 @@ jobs:
         with:
           github_user_name: Tanishka-Sharma0
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light
       - uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: \${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-    </pre>
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist</pre>
   </details>
   
 </div>
 
+<br/>
+
 <!-- ========================================================= -->
-<!--          📌 FEATURED REPOSITORIES (UPDATED)              -->
+<!--          📌 FEATURED REPOSITORIES (WORKING)              -->
 <!-- ========================================================= -->
 
 <div align="center">
   
   ### 📌 Featured Repositories
   
+  <br/>
+  
   <table>
     <tr>
       <td>
         <a href="https://github.com/Tanishka-Sharma0/AI_FLOW_BUILDER">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishka-Sharma0&repo=AI_FLOW_BUILDER&theme=radical&bg_color=0D1117&title_color=7C3AED&border_color=7C3AED"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishka-Sharma0&repo=AI_FLOW_BUILDER&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=EC4899&hide_border=true"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Tanishka-Sharma0/CineMetrics">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishka-Sharma0&repo=CineMetrics&theme=radical&bg_color=0D1117&title_color=7C3AED&border_color=7C3AED"/>
+        <a href="https://github.com/Tanishka-Sharma0/NextShop">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishka-Sharma0&repo=NextShop&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=EC4899&hide_border=true"/>
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Tanishka-Sharma0/NextShop">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishka-Sharma0&repo=NextShop&theme=radical&bg_color=0D1117&title_color=7C3AED&border_color=7C3AED"/>
+        <a href="https://github.com/Tanishka-Sharma0/AI-Portfolio-Chatbot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishka-Sharma0&repo=AI-Portfolio-Chatbot&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=EC4899&hide_border=true"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Tanishka-Sharma0/AI-Portfolio-Chatbot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishka-Sharma0&repo=AI-Portfolio-Chatbot&theme=radical&bg_color=0D1117&title_color=7C3AED&border_color=7C3AED"/>
+        <a href="https://github.com/Tanishka-Sharma0/CineMetrics">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishka-Sharma0&repo=CineMetrics&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=EC4899&hide_border=true"/>
         </a>
       </td>
     </tr>
@@ -201,13 +260,17 @@ jobs:
   
 </div>
 
+<br/>
+
 <!-- ========================================================= -->
-<!--              🚀 SKILLS SECTION                           -->
+<!--              🚀 TECH STACK                               -->
 <!-- ========================================================= -->
 
 <div align="center">
   
   ### 💻 Tech Stack
+  
+  <br/>
   
   <table>
     <tr>
@@ -241,15 +304,9 @@ jobs:
       </td>
     </tr>
     <tr>
-      <td><h3>☁️ Cloud</h3></td>
+      <td><h3>☁️ Cloud & DevOps</h3></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker" />
-      </td>
-    </tr>
-    <tr>
-      <td><h3>🧪 Testing</h3></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=jest" />
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,vercel,netlify" />
       </td>
     </tr>
     <tr>
@@ -262,17 +319,7 @@ jobs:
   
 </div>
 
-<!-- ========================================================= -->
-<!--            📈 ACTIVITY GRAPH                             -->
-<!-- ========================================================= -->
-
-<div align="center">
-  
-  ### 📈 Contribution Graph
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishka-Sharma0&theme=react-dark&bg_color=0D1117&hide_border=true&color=7C3AED&line=EC4899&point=7C3AED" alt="Activity Graph"/>
-  
-</div>
+<br/>
 
 <!-- ========================================================= -->
 <!--              🌟 FEATURED PROJECTS                        -->
@@ -281,6 +328,8 @@ jobs:
 <div align="center">
   
   ### 🚀 Featured Projects
+  
+  <br/>
   
   <table>
     <tr>
@@ -296,6 +345,37 @@ jobs:
           <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
         <a href="https://github.com/Tanishka-Sharma0/AI_FLOW_BUILDER">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+      <td width="50%">
+        <h3>🛍️ NextShop</h3>
+        <p>Production-ready ecommerce platform with Next.js</p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        </p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+        <a href="https://github.com/Tanishka-Sharma0/NextShop">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>💬 AI Portfolio Chatbot</h3>
+        <p>Intelligent portfolio assistant with Gemini API</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
+        </p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+        <a href="https://github.com/Tanishka-Sharma0/AI-Portfolio-Chatbot">
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
@@ -319,6 +399,26 @@ jobs:
   
 </div>
 
+<br/>
+
+<!-- ========================================================= -->
+<!--            📈 ACTIVITY GRAPH                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+  
+  ### 📈 Contribution Graph
+  
+  <br/>
+  
+  <a href="https://github.com/Tanishka-Sharma0">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishka-Sharma0&theme=react-dark&bg_color=0D1117&hide_border=true&color=7C3AED&line=EC4899&point=7C3AED" alt="Activity Graph"/>
+  </a>
+  
+</div>
+
+<br/>
+
 <!-- ========================================================= -->
 <!--            🎯 CURRENT FOCUS                              -->
 <!-- ========================================================= -->
@@ -326,6 +426,8 @@ jobs:
 <div align="center">
   
   ### 🎯 Current Focus
+  
+  <br/>
   
   <table>
     <tr>
@@ -347,6 +449,38 @@ jobs:
   
 </div>
 
+<br/>
+
+<!-- ========================================================= -->
+<!--            💡 ENGINEERING PHILOSOPHY                     -->
+<!-- ========================================================= -->
+
+<div align="center">
+  
+  ### 💡 Engineering Philosophy
+  
+  <br/>
+  
+  <blockquote>
+    <p><i>"Good software solves problems. Great software feels invisible."</i></p>
+  </blockquote>
+  
+  <br/>
+  
+  <table>
+    <tr>
+      <td>⚡ Fast</td>
+      <td>📈 Scalable</td>
+      <td>🔒 Secure</td>
+      <td>🎨 Beautiful</td>
+      <td>🛠️ Maintainable</td>
+    </tr>
+  </table>
+  
+</div>
+
+<br/>
+
 <!-- ========================================================= -->
 <!--            💫 QUOTE SECTION                              -->
 <!-- ========================================================= -->
@@ -355,9 +489,13 @@ jobs:
   
   ### 💫 Inspirational Quote
   
+  <br/>
+  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
   
 </div>
+
+<br/>
 
 <!-- ========================================================= -->
 <!--            🏷️ VISITOR COUNT                             -->
@@ -367,9 +505,13 @@ jobs:
   
   ### 👀 Profile Views
   
+  <br/>
+  
   <img src="https://komarev.com/ghpvc/?username=Tanishka-Sharma0&style=for-the-badge&color=7C3AED&label=👀%20VISITORS" alt="Visitor Count"/>
   
 </div>
+
+<br/>
 
 <!-- ========================================================= -->
 <!--              🌊 FOOTER WAVE                              -->
